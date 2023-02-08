@@ -18,7 +18,7 @@ This project is a code refactor for the Horiseon website homepage.   The purpose
 
 [Link to the deployed website](https://letmego1st.github.io/horiseon_refactor/)
 
-[Link to the code repository](https://github.com/Letmego1st/horiseon_refactor/blob/main/index.ht)
+[Link to the code repository](https://github.com/Letmego1st/horiseon_refactor/blob/main/index.html)
 
 ## Installation
 
