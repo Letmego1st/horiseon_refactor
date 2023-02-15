@@ -15,6 +15,7 @@ This project is a code refactor for the Horiseon website homepage.   The purpose
 * A descriptive title was added
 
 ### Links
+![169622360-31b33d88-dff8-412d-ba1c-be56b8bedc3e](https://user-images.githubusercontent.com/119816112/218907310-9a2ddfe9-2f67-4ddf-9bbd-9e577b2927a4.jpeg)
 
 
 [Link to the deployed website](https://letmego1st.github.io/horiseon_refactor/)
